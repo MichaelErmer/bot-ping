@@ -1,5 +1,5 @@
 {
-  "name": "bot-example",
+  "name": "bot-ping",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/contactimpact/bot-example.git"
+    "url": "git+https://github.com/MichaelErmer/bot-ping.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/contactimpact/bot-example/issues"
+    "url": "https://github.com/MichaelErmer/bot-ping/issues"
   },
-  "homepage": "https://github.com/contactimpact/bot-example#readme",
+  "homepage": "https://github.com/MichaelErmer/bot-ping#readme",
   "dependencies": {
     "is-ipv6-node": "^1.0.7",
     "lodash": "^4.17.4",
