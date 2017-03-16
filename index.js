@@ -13,7 +13,7 @@ var Module = function (bot) {
   this.commands = {};
 
   this.commands.example = function(channel, args, user) {
-    var response = "Hello, "+user.username;
+    var response = "Hello, "+user.name;
     setTimeout(function() {
       bot.postMessage(channel, response);
     }, 500);
