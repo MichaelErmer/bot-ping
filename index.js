@@ -27,7 +27,6 @@ var Module = function (bot) {
           return bot.postMessage(channel, target + " Error: " + error.message);
       else
         return bot.postMessage(channel, target + " is Alive.");
-      session.close();
     });
   };
 
