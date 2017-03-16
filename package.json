@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/contactimpact/bot-example#readme",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "is-ipv6-node": "^1.0.7",
+    "lodash": "^4.17.4",
+    "net-ping": "^1.2.0"
   }
 }
